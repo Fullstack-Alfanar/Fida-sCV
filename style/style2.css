@@ -1,0 +1,109 @@
+
+.BODY{
+    padding: 50px;
+
+}
+
+.information{
+    display: flex;
+    flex-wrap: wrap;
+
+ }
+
+.name{
+    border-radius: 10px;
+    border:0px;
+    background-color: #f8f6f8;
+    padding: 10px;
+    width: 250px;
+
+}
+.email{
+    border-radius: 10px;
+    border:0px;
+    background-color: #f8f6f8;
+    padding: 10px;
+    width: 250px;
+
+}
+.phone{
+    border-radius: 10px;
+    border:0px;
+    background-color: #f8f6f8;
+    padding: 10px;
+    width: 250px;
+
+}
+.link{
+    border-radius: 10px;
+    border:0px;
+    background-color: #f8f6f8;
+    padding: 10px;
+    width: 250px;
+
+}
+.message{
+    flex-basis: 100px;
+    border-radius: 10px;
+    border:0px;
+    height: 50px;
+    width: 400px;
+    background-color: #f8f6f8;
+    padding: 10px;
+
+}
+.submitButton{
+    border-radius: 20px;
+    border:0px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #F81A5A;
+    padding: 10px;
+
+}
+.nameD{
+    padding: 20px;
+    flex: 40%;
+
+}
+.emailD{
+    padding: 20px;
+    flex: 40%;
+
+
+}
+.linkD{
+    padding: 20px;
+    flex: 40%;
+
+}
+.messageD{
+    padding: 20px;
+    flex: 50%;
+}
+.phoneD{
+    padding: 20px;
+    flex: 40%;
+}
+.submitD{
+    padding: 20px;
+    flex: 100%;
+}
+.nameL{
+    padding: 10px;
+}
+.phoneL{
+    padding: 10px;
+}
+.emailL{
+    padding: 10px;
+}
+.linkL{
+    padding: 10px;
+}
+.messageD{
+    padding: 10px;
+}
